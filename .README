@@ -1,0 +1,7 @@
+📌 Requisitos:
+1️⃣ Usa la API de FakeStore (https://fakestoreapi.com/products) para obtener una lista de productos.
+2️⃣ Define una interfaz Producto con id, title, price y stock.
+3️⃣ Crea una función que filtre solo los productos con stock > 0.
+4️⃣ Usa Pick para extraer solo title y price de los productos y mostrarlos en un mensaje.
+
+🚀 Reto Extra: Modifica el ejercicio para que en lugar de filtrar por stock, filtre por productos que cuesten más de $50.
