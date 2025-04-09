@@ -1,4 +1,4 @@
-import { Category } from "./Category.interface";
+import { Category } from "./category.interface";
 import { Rating } from "./rating.interface";
 
 
