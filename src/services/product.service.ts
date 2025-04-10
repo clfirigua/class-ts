@@ -4,7 +4,6 @@ const urlBase = "https://fakestoreapi.com"
 
 
 
-
 export const obtenerProductos = async ():Promise<Products[]> =>{
     const response = await fetch(`${urlBase}/products`);
     const data = await response.json();
