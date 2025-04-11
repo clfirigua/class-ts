@@ -1,3 +1,3 @@
 export const Documents = () => {
-    console.log("hola")
+    console.log("Proyecto Fakestoreapi")
 }
